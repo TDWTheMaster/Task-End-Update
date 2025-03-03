@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\bin\Debug\net9.0\TareaFinal.exe
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\bin\Debug\net9.0\TareaFinal.deps.json
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\bin\Debug\net9.0\TareaFinal.runtimeconfig.json
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\bin\Debug\net9.0\TareaFinal.dll
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\bin\Debug\net9.0\TareaFinal.pdb
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\TareaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\TareaFinal.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\TareaFinal.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\TareaFinal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\TareaFinal.dll
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\refint\TareaFinal.dll
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\TareaFinal.pdb
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\TareaFinal.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Escritorio\Tarea Final\TareaFinal\obj\Debug\net9.0\ref\TareaFinal.dll
